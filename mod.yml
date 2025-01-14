@@ -1,0 +1,8 @@
+title: The Squeakquel
+author: shananas
+game: kh2
+assets:
+- name: bgm/music121.win32.scd
+  method: copy
+  source:
+  - name: Chipwrecked.scd
